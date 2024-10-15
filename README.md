@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🤝 Ready To Collaborate for Project<br>🌱 I’m currently learning NextJS<br>💪Be fit and Code
+<br>🤝 Ready To Collaborate for Project<br>🌱 I’m currently learning Ruby on Rails<br>💪Be fit and Code
 
 
 ## 🌐 Socials:
